@@ -1,1 +1,2 @@
-# human-secretome
+# The Human Secretome
+The proteins secreted by human cells (the secretome) are important for the basic understanding of human biology, but also for the identification of potential targets for future diagnostics and therapy. Here, we present a genome-wide analysis of proteins predicted to be secreted from human cells providing information about their final localization in the human body, including the proteins actively secreted to peripheral blood. The proteins detected in human blood by mass spectrometry-based proteomics and antibody-based immune-assays are also presented to provide an open access Blood Atlas resource to facilitate exploration of individual proteins actively secreted by human cells.
